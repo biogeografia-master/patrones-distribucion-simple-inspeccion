@@ -1,0 +1,1 @@
+# patrones-distribucion-simple-inspeccion
