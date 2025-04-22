@@ -1,17 +1,17 @@
 Prácticas de aula 6 (PA06): Distribución de especies, patrones de
 distribución por simple inspección<small><br>Biogeografía
 (GEO-131)<br>Universidad Autónoma de Santo Domingo (UASD)<br>Semestre
-2024-02</small>
+2025-01</small>
 ================
 El Tali
-2024-10-08
+2025-04-22
 
 Versión HTML (quizá más legible),
 [aquí](https://biogeografia-master.github.io/patrones-distribucion-simple-inspeccion/README.html)
 
 # **Fecha/hora de entrega**
 
-**8 de octubre de 2024, 7:59 pm.**
+**VER PORTAL DE LA ASIGNATURA**
 
 # **Introducción**
 
@@ -63,8 +63,9 @@ registros fuera de RD (ignora estos últimos y concéntrate en RD).
       teléfono) o KMZ (con Google Earth). Puedes usar el del aula
       también.
     - [Mapa topográfico (este enlace te lleva a un mapa muy detallado,
-      sólo visible a escala 1:100,000 o mayor)](). Puedes usar el mapa
-      3D del aula también.
+      sólo visible a escala 1:100,000 o
+      mayor)](https://geofis.xyz/lm/index.php/view/map/?repository=mtnrd50k&project=mtnrd50k&layers=BTTT&bbox=-7797100.051149%2C2088532.437737%2C-7775047.968492%2C2098431.032899&crs=EPSG%3A3857&layerStyles=Topo_Map%3Apredeterminado).
+      Puedes usar el mapa 3D del aula también.
     - Mapas de vegetación, o mapas de uso y cobertura. [Este
       enlace](https://biogeografia-master.github.io/medio-fisico-variables-ambientales/README.html)
       te lleva a la práctica anterior PA05; busca el mapa de PROBAV.
@@ -155,11 +156,15 @@ datos numéricos.
 
 # **Conclusión**
 
-Escribe un resumen final de tus observaciones. Incluye: - Una reflexión
-sobre los patrones espaciales observados. - Cualquier hipótesis que
-puedas tener sobre las razones detrás de la distribución observada. - Si
-encontraste o no una asociación clara con factores ambientales como la
-elevación, pendiente o vegetación.
+Escribe un resumen final de tus observaciones. Incluye:
+
+- Una reflexión sobre los patrones espaciales observados.
+
+- Cualquier hipótesis que puedas tener sobre las razones detrás de la
+  distribución observada.
+
+- Si encontraste o no una asociación clara con factores ambientales como
+  la elevación, pendiente o vegetación.
 
 ------------------------------------------------------------------------
 
